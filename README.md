@@ -1,5 +1,9 @@
 # toxic-comment-classification
 
+## Summary
+
+Multi-label classification of comments
+
 ## Dataset
 
 Wikipedia comments rated in 6 categories of *toxicity*.
