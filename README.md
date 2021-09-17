@@ -17,5 +17,12 @@ Wikipedia comments rated in 6 categories of *toxicity*.
 
 * Exploratory data analysis
 * Data preprocessing
-* Machine learning (In construction)
+* Natural Language Processing 
+  * standard CountVectorizer   
+  * Tfidf Vectorizer
+* Machine learning methods
+  * Multinomial Naive Bayes Classifier
+  * Linear Support Vector Machine Classifier
+  * Logistic Regression
+* Evaluation of the f1 score   
 
