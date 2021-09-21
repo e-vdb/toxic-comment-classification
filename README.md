@@ -20,10 +20,10 @@ Wikipedia comments rated in 6 categories of *toxicity*.
 ## Repository content
 * toxicCommentClassification.ipynb : Jupyter notebook
 * ML_model : folder 
- * model.py : Python script that saves a Linear SVC model trained on the dataset
- * f1_score_test.py : Python script that evaluates the f1_score on the test dataset
- * dev_tests.py : Python script with predictions of toxicity
- * user.py : Python script with predictions of toxicity for a console entry
+   * model.py : Python script that saves a Linear SVC model trained on the dataset
+   * f1_score_test.py : Python script that evaluates the f1_score on the test dataset
+   * dev_tests.py : Python script with predictions of toxicity
+   * user.py : Python script with predictions of toxicity for a console entry
 
 
 ## Jupyter notebook
