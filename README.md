@@ -17,7 +17,14 @@ Wikipedia comments rated in 6 categories of *toxicity*.
 
 (dataset available on https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data)
 
-## Notebook
+## Repository content
+
+* model.py
+* f1_score_test.py
+* dev_tests.py
+* user.py
+
+## Jupyter notebook
 
 * Exploratory data analysis
 * Data preprocessing
@@ -29,4 +36,5 @@ Wikipedia comments rated in 6 categories of *toxicity*.
   * Linear Support Vector Machine Classifier
   * Logistic Regression
 * Evaluation of the f1 score   
+* Parameters tuning with GridSearch CV
 
