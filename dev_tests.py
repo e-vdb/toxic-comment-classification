@@ -27,9 +27,7 @@ categories=['toxic', 'severe_toxic', 'obscene', 'threat','insult', 'identity_hat
 filename = 'finalized_model.sav'
 loaded_model = pickle.load(open(filename, 'rb'))
 
-entry=["Fuck you","Bastard","I do not agree with you",
-       "Go to hell","Son of a bitch","I'm gonna kill you",
-       "Fuck you nigga"]
+entry=["Enter here a comment","I do not agree with you"]
 entry_clean=[clean_text(com) for com in entry]
 output=pd.DataFrame(loaded_model.predict(entry_clean),columns=categories)
 print(output)
