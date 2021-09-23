@@ -32,7 +32,7 @@ Dataset available on https://www.kaggle.com/c/jigsaw-toxic-comment-classificatio
 * Natural Language Processing 
   * Standard CountVectorizer   
   * Tfidf Vectorizer
-* Multi-label classifier
+* Multi-label classifier using a MultiOutputClassifier from sklearn.multioutput
 * Machine learning algorithms
   * Multinomial Naive Bayes Classifier
   * Linear Support Vector Machine Classifier
