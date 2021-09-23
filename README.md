@@ -2,11 +2,8 @@
 
 ## Summary
 
-Multi-label classification of comments
-
-## Dataset
-
-Wikipedia comments rated in 6 categories of *toxicity*.
+Multi-label classification of Wikipedia comments. 
+The purpose is to predict the *toxicity* of these comments among 6 categories :
 
 * toxic
 * severe_toxic
@@ -15,7 +12,9 @@ Wikipedia comments rated in 6 categories of *toxicity*.
 * insult
 * identity_hate
 
-(dataset available on https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data)
+## Dataset
+
+Dataset available on https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
 
 ## Repository content
 * toxicCommentClassification.ipynb : Jupyter notebook
@@ -31,9 +30,10 @@ Wikipedia comments rated in 6 categories of *toxicity*.
 * Exploratory data analysis
 * Data preprocessing
 * Natural Language Processing 
-  * standard CountVectorizer   
+  * Standard CountVectorizer   
   * Tfidf Vectorizer
-* Machine learning methods
+* Multi-label classifier
+* Machine learning algorithms
   * Multinomial Naive Bayes Classifier
   * Linear Support Vector Machine Classifier
   * Logistic Regression
