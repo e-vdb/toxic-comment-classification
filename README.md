@@ -37,6 +37,6 @@ Dataset available on https://www.kaggle.com/c/jigsaw-toxic-comment-classificatio
   * Multinomial Naive Bayes Classifier
   * Linear Support Vector Machine Classifier
   * Logistic Regression
-* Evaluation of the f1 score   
+* Evaluation of the f1 score (weighted)   
 * Parameters tuning with GridSearch CV
 
