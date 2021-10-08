@@ -40,3 +40,6 @@ Dataset available on https://www.kaggle.com/c/jigsaw-toxic-comment-classificatio
 * Evaluation of the f1 score (weighted)   
 * Parameters tuning with GridSearch CV
 
+## TASK LIST
+- [ ] Implement deep learning algorithm using Keras
+- [ ] Deploy model
