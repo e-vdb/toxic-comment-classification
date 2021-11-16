@@ -42,5 +42,5 @@ Dataset available on https://www.kaggle.com/c/jigsaw-toxic-comment-classificatio
 
 ## TASK LIST
 - [x] Implement machine learning algorithm using Scikit-learn
-- [ ] Implement deep learning algorithm using Keras
+- [x] Implement deep learning algorithm using Keras
 - [ ] Deploy model
